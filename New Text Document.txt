@@ -1,0 +1,276 @@
+
+
+
+    /* \\laptp */
+
+    @media screen and (min-width:1024px) and (max-width: 1366px){
+        body{
+            background-image: url("../3759159.jpg");   
+            background-repeat: no-repeat;
+            background-size: 50%;
+            background-attachment: fixed;  
+            
+            /* background-color: rgb(7, 77, 82); */
+            margin: 0;
+                padding: 0;
+                
+            }
+            .continer {
+            display: flex;
+            /* outline: 5px solid rgb(0, 0, 0); */
+            background-color: rgb(51, 196, 152);
+            border-radius: 20px;
+            height:70px;
+            width: 500px;
+            margin-right: 90px;
+            justify-self: right;
+             position: relative; 
+            top: 340px;
+            box-shadow: 10px 10px 12px rgb(71, 71, 71);
+            justify-content: space-around;
+            }
+            .one{
+                border-radius: 30px;
+                background-color: white;
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+                margin-left: 50px;
+            }
+            .tow{
+            background-color: white;
+            border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+            }
+            
+            .ther{
+                background-color: white;    border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                
+                align-self: center;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                border-radius: 20px;
+            }
+            
+            .data{
+            display: block;
+            position: relative;
+            top: 240px;
+            justify-self: right;
+            width: 500px;
+            margin-right: 90px;
+                /* background-color: red; */
+            }
+            
+            p{
+              
+                color: rgb(0, 0, 0);
+                font-size: 20px;
+                font-weight: bold;
+            }
+            h1{
+                /* color: rgb(51, 196, 152); */
+            
+                background-color:rgb(51, 196, 152); 
+            
+            font-size: 30px;  
+              font-weight: bold;
+            }
+      }
+
+      /* phone */
+      
+      @media screen and (max-width: 768px)  {
+        body{
+            background-image: url("../3759159.jpg");   
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-attachment: fixed;  
+            
+            /* background-color: rgb(7, 77, 82); */
+            margin: 0;
+                padding: 0;
+                
+            }
+            .continer {
+            display: flex;
+            /* outline: 5px solid rgb(0, 0, 0); */
+            background-color: rgb(51, 196, 152);
+            border-radius: 20px;
+            height:70px;
+            width: 290px;
+            /* margin-left: 40px; */
+            justify-self: center;
+             position: relative; 
+            top: 340px;
+            box-shadow: 10px 10px 12px rgb(71, 71, 71);
+            justify-content: space-around;
+            }
+            .one{
+                border-radius: 30px;
+                background-color: white;
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+                margin-left: 40px;
+            }
+            .tow{
+            background-color: white;
+            border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+            }
+            
+            .ther{
+                background-color: white;    border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                
+                align-self: center;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                border-radius: 20px;
+            }
+            
+            .data{
+            display: block;
+            position: relative;
+            top: 240px;
+            justify-self: center;
+            width: 300px;
+            /* margin-right: 90px; */
+                /* background-color: red; */
+            }
+            
+            p{
+              
+                color: rgb(0, 0, 0);
+                font-size: 20px;
+                font-weight: bold;
+            }
+            h1{
+                /* color: rgb(51, 196, 152); */
+            
+                background-color:rgb(51, 196, 152); 
+            
+            font-size: 20px;  
+              font-weight: bold;
+            }
+      }
+
+      @media screen and (max-width: 480px) {
+        body{
+            background-image: url("../3759159.jpg");   
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-attachment: fixed;  
+            
+            /* background-color: rgb(7, 77, 82); */
+            margin: 0;
+                padding: 0;
+                
+            }
+            .continer {
+            display: flex;
+            /* outline: 5px solid rgb(0, 0, 0); */
+            background-color: rgb(51, 196, 152);
+            border-radius: 20px;
+            height:70px;
+            width: 290px;
+            /* margin-left: 40px; */
+            justify-self: center;
+             position: relative; 
+            top: 340px;
+            box-shadow: 10px 10px 12px rgb(71, 71, 71);
+            justify-content: space-around;
+            }
+            .one{
+                border-radius: 30px;
+                background-color: white;
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+                margin-left: 40px;
+            }
+            .tow{
+            background-color: white;
+            border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                align-self: center;
+            }
+            
+            .ther{
+                background-color: white;    border-radius: 30px;
+            
+                /* display:block ; */
+                /* border: 3px solid red; */
+                /* border: 3px solid red; */
+                height: 40px;
+                width: 40px;
+                
+                align-self: center;
+            }
+            img{
+                width: 100%;
+                height: 100%;
+                border-radius: 20px;
+            }
+            
+            .data{
+            display: block;
+            position: relative;
+            top: 240px;
+            justify-self: center;
+            width: 300px;
+            /* margin-right: 90px; */
+                /* background-color: red; */
+            }
+            
+            p{
+              
+                color: rgb(0, 0, 0);
+                font-size: 20px;
+                font-weight: bold;
+            }
+            h1{
+                /* color: rgb(51, 196, 152); */
+            
+                background-color:rgb(51, 196, 152); 
+            
+            font-size: 20px;  
+              font-weight: bold;
+            }
+      }
