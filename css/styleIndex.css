@@ -8,7 +8,7 @@ width: 100%;
  body{
     margin: 0;
     padding: 0;
-/*     border: 2px solid red; */
+    border: 2px solid red;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -19,7 +19,7 @@ align-items: center;
  .data{
     /* display: block; */
     /* border: 2px solid red; */
-    width: 500px;
+    width: 300px;
 
     
  }
@@ -30,7 +30,7 @@ align-items: center;
     justify-content: space-around;
     align-items: center;
     min-height: 70px;
-    max-width: 500px;
+    max-width: 300px;
     /* background-color: red; */
  background-color: rgb(99, 99, 99);
  /* border: 2px solid red; */
